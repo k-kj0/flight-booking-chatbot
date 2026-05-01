@@ -10,10 +10,6 @@ An interactive AI chatbot that helps users explore and book flights through a si
 
 ---
 
-## 📷 Preview
-
-![App Screenshot](./screenshot.png)
----
 
 ## 📌 Features
 
